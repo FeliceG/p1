@@ -18,12 +18,12 @@
 
 <article>
 <h3>Project Title 3</h3>
-<p>View:<a href="http://p3.felicenapolitano.me">p3.felicenapolitano.me</a> Github:[https://github.com/FeliceG/p3]</p>
+<p>View:<a href="http://p3.felicenapolitano.me">p3.felicenapolitano.me</a> Github:<a href="https://github.com/FeliceG/p3">https://github.com/FeliceG/p3</a><p>
 </article>
 
 <article>
 <h3>Project Title 4</h3>
-<p>View:<a href="http://p4.felicenapolitano.me">p4.felicenapolitano.me</a> Github:[https://github.com/FeliceG/p4]</p>
+<p>View:<a href="http://p4.felicenapolitano.me">p4.felicenapolitano.me</a> Github:<a href="https://github.com/FeliceG/p4">https://github.com/FeliceG/p4</a></p>
 </article>
 
 <br />
